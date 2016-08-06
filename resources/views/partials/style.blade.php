@@ -1,0 +1,1 @@
+{!! \Html::style('/styles/bootstrap.min.css') !!}
